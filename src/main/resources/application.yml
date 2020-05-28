@@ -1,0 +1,5 @@
+spring:
+  config:
+    location: file:extra.properties
+  properties:
+   refreshDelay: 5000
